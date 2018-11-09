@@ -1,0 +1,19 @@
+{
+  "name": "graphql-essential-training",
+  "version": "1.0.0",
+  "description": "Basic Graphic Query Language based on Node.js an MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlainez/graphql-essential-course.git"
+  },
+  "author": "Norman Joya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlainez/graphql-essential-course/issues"
+  },
+  "homepage": "https://github.com/nlainez/graphql-essential-course#readme"
+}
